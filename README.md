@@ -5,7 +5,7 @@
 ## Contact Information: ##
 
 * Location: Minsk, Belarus
-* 
+* [LinkedIn:](https://www.linkedin.com/in/anastasia-lukyanchick-58b98b241/)
 * GitHub: AnastasiaLL
 * Discord: AnastasiaLL#0717
 
