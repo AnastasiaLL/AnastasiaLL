@@ -2,7 +2,7 @@
 *Frontend Developer*
 
 
-##Contact Information:##
+## Contact Information: ##
 
 * Location: Minsk, Belarus
 * 
@@ -10,7 +10,7 @@
 * Discord: AnastasiaLL#0717
 
 
-##Skills:##
+## Skills: ##
 * HTML
 * CSS
 * SASS / SCSS
