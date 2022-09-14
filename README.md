@@ -22,7 +22,9 @@
 
 ## Portfolio: ##
 
-Online store (HTML/SASS/TS) - https://rolling-scopes-school.github.io/anastasiall-JSFE2022Q1/online-store/
+RSLang - app to learn English (HTML/SASS/TS/Webpack/ESLint) - https://anastasiall.github.io/rslang/
+
+Online store (HTML/SASS/TS/Webpack/ESLint) - https://rolling-scopes-school.github.io/anastasiall-JSFE2022Q1/online-store/
 
 Shelter landing (HTML/SASS/JS) - https://rolling-scopes-school.github.io/anastasiall-JSFE2022Q1/shelter/pages/main/
 
