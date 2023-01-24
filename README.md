@@ -11,20 +11,22 @@
 
 
 ## Skills: ##
+* Angular
+* Ionic
+* TypeScript
+* JavaScript
 * HTML
 * CSS
 * SASS / SCSS
-* JavaScript
-* TypeScript
 * Webpack
 * Git / GitHub / VS Code
 * Figma / Photoshop
 
 ## Portfolio: ##
 
-RSLang - app to learn English (HTML/SASS/TS/Webpack/ESLint) - https://anastasiall.github.io/rslang/
+RSLang - app to learn English (HTML/SASS/TS/Chart.js/Node js) - https://anastasiall.github.io/rslang/
 
-Online store (HTML/SASS/TS/Webpack/ESLint) - https://rolling-scopes-school.github.io/anastasiall-JSFE2022Q1/online-store/
+Online store (HTML/SASS/TS) - https://rolling-scopes-school.github.io/anastasiall-JSFE2022Q1/online-store/
 
 Shelter landing (HTML/SASS/JS) - https://rolling-scopes-school.github.io/anastasiall-JSFE2022Q1/shelter/pages/main/
 
