@@ -1,5 +1,5 @@
 ### Hi there, I'm Anastasia👋
-*Junior Frontend Developer*
+*Frontend Developer*
 
 
 ## Contact Information: ##
